@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Adiwon.github.io</id>
     <title>荒川桥下</title>
-    <updated>2019-10-21T20:27:51.282Z</updated>
+    <updated>2019-10-21T20:34:42.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Adiwon.github.io"/>
     <link rel="self" href="https://Adiwon.github.io/atom.xml"/>
@@ -61,18 +61,6 @@
         <link href="https://Adiwon.github.io/post/18013001">
         </link>
         <updated>2018-01-30T15:00:18.000Z</updated>
-        <summary type="html"><![CDATA[<h1 id="18第一篇">18第一篇</h1>
-<hr>
-<h2 id="感言">感言</h2>
-<p>17年真是发生了很多事。博客搭好后也再没动过。到了现在东西都忘得差不多了，干脆从头搞起，倒也挺不错。还成功完成了拖延一年的hiker更换。</p>
-<hr>
-]]></summary>
-        <content type="html"><![CDATA[<h1 id="18第一篇">18第一篇</h1>
-<hr>
-<h2 id="感言">感言</h2>
-<p>17年真是发生了很多事。博客搭好后也再没动过。到了现在东西都忘得差不多了，干脆从头搞起，倒也挺不错。还成功完成了拖延一年的hiker更换。</p>
-<hr>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[列表测试]]></title>
@@ -80,46 +68,6 @@
         <link href="https://Adiwon.github.io/post/number">
         </link>
         <updated>2017-02-03T12:20:06.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>测试结果：无序列表无法嵌套有序列表，其它人也报告过此问题，大致确认是next本身的问题。</p>
-</blockquote>
-<ul>
-<li>一· 嵌套有序列表测试
-<ol>
-<li>第一项</li>
-<li>第二项</li>
-<li>第三项</li>
-</ol>
-</li>
-<li>二· 嵌套无序列表测试
-<ul>
-<li>第一项</li>
-<li>第二项</li>
-<li>第三项</li>
-</ul>
-</li>
-</ul>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>测试结果：无序列表无法嵌套有序列表，其它人也报告过此问题，大致确认是next本身的问题。</p>
-</blockquote>
-<ul>
-<li>一· 嵌套有序列表测试
-<ol>
-<li>第一项</li>
-<li>第二项</li>
-<li>第三项</li>
-</ol>
-</li>
-<li>二· 嵌套无序列表测试
-<ul>
-<li>第一项</li>
-<li>第二项</li>
-<li>第三项</li>
-</ul>
-</li>
-</ul>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[又一次，近来折腾总结]]></title>
@@ -127,34 +75,6 @@
         <link href="https://Adiwon.github.io/post/170203">
         </link>
         <updated>2017-02-03T09:44:43.000Z</updated>
-        <summary type="html"><![CDATA[<h1 id="近来折腾的软件以及其他">近来折腾的软件以及其他</h1>
-<h2 id="软件">软件</h2>
-<p>​        这几天闲着没事翻了大堆大堆的软件，但最后一共就装了这么几个：/ 痛点</p>
-<ul>
-<li>
-<p>美化：</p>
-<ol>
-<li>7+ Taskbar Tweaker 主要用来解决任务栏放侧面后宽到丑死又不能调节的问题</li>
-<li>TranslucentTB win10任务栏模糊或透明</li>
-</ol>
-<p>基本上一个痛点就需要一个软件（好在都够小）</p>
-</li>
-</ul>
-]]></summary>
-        <content type="html"><![CDATA[<h1 id="近来折腾的软件以及其他">近来折腾的软件以及其他</h1>
-<h2 id="软件">软件</h2>
-<p>​        这几天闲着没事翻了大堆大堆的软件，但最后一共就装了这么几个：/ 痛点</p>
-<ul>
-<li>
-<p>美化：</p>
-<ol>
-<li>7+ Taskbar Tweaker 主要用来解决任务栏放侧面后宽到丑死又不能调节的问题</li>
-<li>TranslucentTB win10任务栏模糊或透明</li>
-</ol>
-<p>基本上一个痛点就需要一个软件（好在都够小）</p>
-</li>
-</ul>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[初步完成]]></title>
@@ -162,11 +82,5 @@
         <link href="https://Adiwon.github.io/post/1st">
         </link>
         <updated>2017-02-02T14:50:08.000Z</updated>
-        <summary type="html"><![CDATA[<h1 id="配置初步完成的随感">配置初步完成的随感</h1>
-<p>​        github 和 hexo 本身这两部分倒是很顺利，精力全部浪费在配置主题上了。作者的东西是不错，但wiki页面长期没有编辑和更新，文档还行。遇到一些很烦人的小问题，也搜不到什么答案（大家的使用教程大同小异），只能自己瞎试。当然，这锅我自己应该背个百分之六十吧。</p>
-]]></summary>
-        <content type="html"><![CDATA[<h1 id="配置初步完成的随感">配置初步完成的随感</h1>
-<p>​        github 和 hexo 本身这两部分倒是很顺利，精力全部浪费在配置主题上了。作者的东西是不错，但wiki页面长期没有编辑和更新，文档还行。遇到一些很烦人的小问题，也搜不到什么答案（大家的使用教程大同小异），只能自己瞎试。当然，这锅我自己应该背个百分之六十吧。</p>
-]]></content>
     </entry>
 </feed>
