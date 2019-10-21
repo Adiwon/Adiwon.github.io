@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Adiwon.github.io</id>
     <title>荒川桥下</title>
-    <updated>2019-10-21T20:36:03.592Z</updated>
+    <updated>2019-10-21T20:37:55.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Adiwon.github.io"/>
     <link rel="self" href="https://Adiwon.github.io/atom.xml"/>
@@ -10,19 +10,6 @@
     <logo>https://Adiwon.github.io/images/avatar.png</logo>
     <icon>https://Adiwon.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 荒川桥下</rights>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://Adiwon.github.io/post/hello-gridea</id>
-        <link href="https://Adiwon.github.io/post/hello-gridea">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[song]]></title>
         <id>https://Adiwon.github.io/post/song</id>
