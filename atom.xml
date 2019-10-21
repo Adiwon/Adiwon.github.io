@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Adiwon.github.io</id>
     <title>荒川桥下</title>
-    <updated>2019-10-21T20:21:26.611Z</updated>
+    <updated>2019-10-21T20:24:39.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Adiwon.github.io"/>
     <link rel="self" href="https://Adiwon.github.io/atom.xml"/>
@@ -21,25 +21,6 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
     <entry>
@@ -51,9 +32,6 @@
         <summary type="html"><![CDATA[<p>突然想到一段旋律，死活记不起是哪首歌了。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>突然想到一段旋律，死活记不起是哪首歌了。</p>
-<!--more-->
-<p>在歌单里一个一个搜过去，跳过几首EVA之后感觉似乎是同一系列的，想了半天应该是月之迷宫。试听了一下，没错。<br>
-爽啊</p>
 ]]></content>
     </entry>
     <entry>
@@ -62,8 +40,6 @@
         <link href="https://Adiwon.github.io/post/sigh">
         </link>
         <updated>2018-02-11T14:00:41.000Z</updated>
-        <content type="html"><![CDATA[<p>……</p>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Damn]]></title>
@@ -71,9 +47,6 @@
         <link href="https://Adiwon.github.io/post/Damn">
         </link>
         <updated>2018-02-03T12:06:30.000Z</updated>
-        <content type="html"><![CDATA[<p>国家队举报事件，已经无话可说。从上到下一个贱字。</p>
-<p>眼睛疼。</p>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[兵工厂 18冬窗]]></title>
@@ -81,12 +54,6 @@
         <link href="https://Adiwon.github.io/post/18013101">
         </link>
         <updated>2018-01-31T13:03:25.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="下树">下树</h1>
-<hr>
-<p>奥巴梅扬加盟，下树可喜，难过吉鲁离队。</p>
-<figure data-type="image" tabindex="1"><img src="https://wx1.sinaimg.cn/mw690/4aa6129bly1fo01ih9c0oj21kw1nvtl8.jpg" alt="奥巴梅杨与教授合影"></figure>
-<p><code>COYG</code></p>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2018 博客重建]]></title>
@@ -105,18 +72,6 @@
 <h2 id="感言">感言</h2>
 <p>17年真是发生了很多事。博客搭好后也再没动过。到了现在东西都忘得差不多了，干脆从头搞起，倒也挺不错。还成功完成了拖延一年的hiker更换。</p>
 <hr>
-<!-- more -->
-<h2 id="吐槽">吐槽</h2>
-<p>一如既往，小麻烦不断。</p>
-<ul>
-<li>tags categories 状况百出。</li>
-<li>about 我和hiker都有犯蠢。</li>
-<li>配置文件居然不能直接注释掉东西，大片黄字警告真是惊了。</li>
-<li>wsl里的node居然和windows里的不能共存，不知道是什么神奇的机制。</li>
-</ul>
-<hr>
-<h2 id="跑路">跑路</h2>
-<p>好在现在也算是都解决了。今后继续吧。</p>
 ]]></content>
     </entry>
     <entry>
@@ -164,54 +119,6 @@
 </ul>
 </li>
 </ul>
-<!-- more -->
-<p>三· 有序列表测试</p>
-<ol>
-<li>第一项</li>
-<li>第二项</li>
-<li>第三项</li>
-</ol>
-<p>四· 有序列表嵌套测试</p>
-<ol>
-<li>第一项</li>
-<li>第二项</li>
-<li>第三项
-<ol>
-<li>第一项</li>
-<li>第二项</li>
-<li>第三项</li>
-</ol>
-</li>
-<li>第四项</li>
-</ol>
-<p>五· 无序列表嵌套样式测试</p>
-<ul>
-<li>第一项</li>
-<li>第二项</li>
-<li>第三项
-<ul>
-<li>第一项</li>
-<li>第二项</li>
-<li>第三项</li>
-</ul>
-</li>
-<li>第四项</li>
-<li>第五项</li>
-</ul>
-<p>六· 有序列表嵌套无序测试</p>
-<ol>
-<li>第一项</li>
-<li>第二项</li>
-<li>第三项
-<ul>
-<li>第一项</li>
-<li>第二项</li>
-<li>第三项</li>
-</ul>
-</li>
-<li>第四项</li>
-<li>第五项</li>
-</ol>
 ]]></content>
     </entry>
     <entry>
@@ -247,37 +154,6 @@
 <p>基本上一个痛点就需要一个软件（好在都够小）</p>
 </li>
 </ul>
-<!-- more -->
-<ul>
-<li>
-<p>文件相关：</p>
-<ol>
-<li>
-<p>Duplicate Cleaner 查找与清除重复文件 其实挺好用，但查出来后什么都不敢删……</p>
-</li>
-<li>
-<p>Free Commander 其实我对文件管理器的要求真不高，无非是</p>
-<ul>
-<li>有tab</li>
-<li>有多栏</li>
-<li>稳定，快速（启动）</li>
-<li>可以设为默认浏览器</li>
-<li>显示文件夹及文件大小，单位自动升级（这两天新探索出的需求）</li>
-<li>免费（或有免费版）</li>
-</ul>
-<p>结果前前后后试了将近十几款软件了，总是有问题，有的启动太慢（Multicommander），有的莫名其妙崩溃（Q-Dir, xyplorer的蛋疼右键菜单）， 有的收费（这个是我的问题），有的不能设为默认（几款commander），有的设置个文件大小能找到天荒地老（几乎全部，xyplorer表现最好）。最后也想通了，FC还算简洁快速稳定，功能也都有，不能设为默认就忍了吧，大不了listary默认打开，win资源管理器装了qttabbar暂时没啥毛病，可以备用。</p>
-</li>
-</ol>
-</li>
-<li>
-<p>制作图标：3stepicon</p>
-<p>这个是看着免费就领了一个，未必比在线生成方便其实。</p>
-</li>
-</ul>
-<p>​        差不多就这些了，不过翻看软件推荐依旧很爽啊，有当年游戏杂志过干瘾的感觉。</p>
-<h2 id="其他">其他</h2>
-<p>看视频突然来了干劲，做了个字幕。作为链接测试放一个吧。</p>
-<p><a href="http://www.bilibili.com/video/av8375144/">黑客侠教你穿越时空</a></p>
 ]]></content>
     </entry>
     <entry>
@@ -291,11 +167,6 @@
 ]]></summary>
         <content type="html"><![CDATA[<h1 id="配置初步完成的随感">配置初步完成的随感</h1>
 <p>​        github 和 hexo 本身这两部分倒是很顺利，精力全部浪费在配置主题上了。作者的东西是不错，但wiki页面长期没有编辑和更新，文档还行。遇到一些很烦人的小问题，也搜不到什么答案（大家的使用教程大同小异），只能自己瞎试。当然，这锅我自己应该背个百分之六十吧。</p>
-<!-- more -->
-<p>​        总体来说还算满意，折腾这些东西期间也学到了不少东西。接下来还有些小修小补会持续搞，但总体来看已经可以拿来写东西了。</p>
-<p>​        为了找个图床又折腾了一个多小时，受够了。</p>
-<figure data-type="image" tabindex="1"><img src="http://ww4.sinaimg.cn/large/88599b43jw1fcckl5mqp9j20hs0dcmy0.jpg" alt="大神power"></figure>
-<p><code>大神power</code></p>
 ]]></content>
     </entry>
 </feed>
