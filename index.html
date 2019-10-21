@@ -1,251 +1,210 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Gridea</title>
-<meta name="description" content="温故而知新" />
-<link rel="shortcut icon" href="https://Adiwon.github.io/favicon.ico?v=1571689111201">
+    <meta charset="utf-8" >
+
+<title>荒川桥下</title>
+<meta name="description" content="记录">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://Adiwon.github.io/favicon.ico?v=1571689274803">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://Adiwon.github.io/styles/main.css">
 
+
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
 
 
   </head>
   <body>
-    <div class="main">
-      <div class="main-content">
-        <div class="site-header">
-  <a href="https://Adiwon.github.io">
-  <img class="avatar" src="https://Adiwon.github.io/images/avatar.png?v=1571689111201" alt="">
-  </a>
-  <h1 class="site-title">
-    Gridea
-  </h1>
-  <p class="site-description">
-    温故而知新
-  </p>
-  <div class="menu-container">
-    
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://Adiwon.github.io">
+        <img src="https://Adiwon.github.io/images/avatar.png?v=1571689274803" class="site-logo">
+        <h1 class="site-title">荒川桥下</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
       
-        <a href="/" class="menu">
-          首页
-        </a>
+        
+          <a href="/" class="site-nav">
+            首页
+          </a>
+        
       
-    
+        
+          <a href="/archives" class="site-nav">
+            归档
+          </a>
+        
       
-        <a href="/archives" class="menu">
-          归档
-        </a>
+        
+          <a href="/tags" class="site-nav">
+            标签
+          </a>
+        
       
-    
+        
+          <a href="/post/about" class="site-nav">
+            关于
+          </a>
+        
       
-        <a href="/tags" class="menu">
-          标签
-        </a>
-      
-    
-      
-        <a href="/post/about" class="menu">
-          关于
-        </a>
-      
-    
+    </div>
   </div>
-  <div class="social-container">
-    
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
       
-    
+        
       
-    
+        
       
-    
+        
       
-    
+        
       
-    
+        
+      
+    </div>
+    <div class="site-description">
+      记录
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://Adiwon.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
   </div>
 </div>
 
-    
-        <div class="post-container">
-  
-    <article class="post">
-      <a href="https://Adiwon.github.io/post/hello-gridea">
-        <h2 class="post-title">Hello Gridea</h2>
-      </a>
-      <div class="post-info">
-        <span>
-          2018-12-12
-        </span>
-        <span>
-          2 min read
-        </span>
-        
-          <a href="https://Adiwon.github.io/tag/ys7xjrXkf" class="post-tag">
-            # Gridea
-          </a>
-        
-      </div>
-      
-        <a href="https://Adiwon.github.io/post/hello-gridea" class="post-feature-image" style="background-image: url('https://Adiwon.github.io/post-images/hello-gridea.png')">
-        </a>
-      
-      <div class="post-abstract">
-        <p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://Adiwon.github.io/post/hello-gridea">
+                  <h2 class="post-title">Hello Gridea</h2>
+                </a>
+                <div class="post-date">
+                  2018-12-12
+                </div>
+                <div class="post-abstract">
+                  <p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 
-      </div>
-    </article>
-  
-    <article class="post">
-      <a href="https://Adiwon.github.io/post/song">
-        <h2 class="post-title">song</h2>
-      </a>
-      <div class="post-info">
-        <span>
-          2018-02-14
-        </span>
-        <span>
-          1 min read
-        </span>
-        
-          <a href="https://Adiwon.github.io/tag/KrQ2Fgs1e" class="post-tag">
-            # essay
-          </a>
-        
-      </div>
-      
-      <div class="post-abstract">
-        <p>突然想到一段旋律，死活记不起是哪首歌了。</p>
+                </div>
+              </div>
+              
+                <a class="right" href="https://Adiwon.github.io/post/hello-gridea">
+                  <div class="feature-container" style="background-image: url('https://Adiwon.github.io/post-images/hello-gridea.png')">
+                  </div>
+                </a>
+              
+            </article>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://Adiwon.github.io/post/song">
+                  <h2 class="post-title">song</h2>
+                </a>
+                <div class="post-date">
+                  2018-02-14
+                </div>
+                <div class="post-abstract">
+                  <p>突然想到一段旋律，死活记不起是哪首歌了。</p>
 
-      </div>
-    </article>
-  
-    <article class="post">
-      <a href="https://Adiwon.github.io/post/sigh">
-        <h2 class="post-title">sigh</h2>
-      </a>
-      <div class="post-info">
-        <span>
-          2018-02-11
-        </span>
-        <span>
-          0 min read
-        </span>
-        
-          <a href="https://Adiwon.github.io/tag/KrQ2Fgs1e" class="post-tag">
-            # essay
-          </a>
-        
-      </div>
-      
-      <div class="post-abstract">
-        
-      </div>
-    </article>
-  
-    <article class="post">
-      <a href="https://Adiwon.github.io/post/Damn">
-        <h2 class="post-title">Damn</h2>
-      </a>
-      <div class="post-info">
-        <span>
-          2018-02-03
-        </span>
-        <span>
-          1 min read
-        </span>
-        
-          <a href="https://Adiwon.github.io/tag/KrQ2Fgs1e" class="post-tag">
-            # essay
-          </a>
-        
-      </div>
-      
-      <div class="post-abstract">
-        
-      </div>
-    </article>
-  
-    <article class="post">
-      <a href="https://Adiwon.github.io/post/18013101">
-        <h2 class="post-title">兵工厂 18冬窗</h2>
-      </a>
-      <div class="post-info">
-        <span>
-          2018-01-31
-        </span>
-        <span>
-          1 min read
-        </span>
-        
-          <a href="https://Adiwon.github.io/tag/KrQ2Fgs1e" class="post-tag">
-            # essay
-          </a>
-        
-      </div>
-      
-      <div class="post-abstract">
-        
-      </div>
-    </article>
-  
-    <article class="post">
-      <a href="https://Adiwon.github.io/post/18013001">
-        <h2 class="post-title">2018 博客重建</h2>
-      </a>
-      <div class="post-info">
-        <span>
-          2018-01-30
-        </span>
-        <span>
-          1 min read
-        </span>
-        
-          <a href="https://Adiwon.github.io/tag/KrQ2Fgs1e" class="post-tag">
-            # essay
-          </a>
-        
-          <a href="https://Adiwon.github.io/tag/lUN3t7yAQJ" class="post-tag">
-            # software
-          </a>
-        
-      </div>
-      
-      <div class="post-abstract">
-        <h1 id="18第一篇">18第一篇</h1>
+                </div>
+              </div>
+              
+            </article>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://Adiwon.github.io/post/sigh">
+                  <h2 class="post-title">sigh</h2>
+                </a>
+                <div class="post-date">
+                  2018-02-11
+                </div>
+                <div class="post-abstract">
+                  
+                </div>
+              </div>
+              
+            </article>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://Adiwon.github.io/post/Damn">
+                  <h2 class="post-title">Damn</h2>
+                </a>
+                <div class="post-date">
+                  2018-02-03
+                </div>
+                <div class="post-abstract">
+                  
+                </div>
+              </div>
+              
+            </article>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://Adiwon.github.io/post/18013101">
+                  <h2 class="post-title">兵工厂 18冬窗</h2>
+                </a>
+                <div class="post-date">
+                  2018-01-31
+                </div>
+                <div class="post-abstract">
+                  
+                </div>
+              </div>
+              
+            </article>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://Adiwon.github.io/post/18013001">
+                  <h2 class="post-title">2018 博客重建</h2>
+                </a>
+                <div class="post-date">
+                  2018-01-30
+                </div>
+                <div class="post-abstract">
+                  <h1 id="18第一篇">18第一篇</h1>
 <hr>
 <h2 id="感言">感言</h2>
 <p>17年真是发生了很多事。博客搭好后也再没动过。到了现在东西都忘得差不多了，干脆从头搞起，倒也挺不错。还成功完成了拖延一年的hiker更换。</p>
 <hr>
 
-      </div>
-    </article>
-  
-    <article class="post">
-      <a href="https://Adiwon.github.io/post/number">
-        <h2 class="post-title">列表测试</h2>
-      </a>
-      <div class="post-info">
-        <span>
-          2017-02-03
-        </span>
-        <span>
-          1 min read
-        </span>
-        
-          <a href="https://Adiwon.github.io/tag/f2JB1C45ku" class="post-tag">
-            # test
-          </a>
-        
-      </div>
-      
-      <div class="post-abstract">
-        <blockquote>
+                </div>
+              </div>
+              
+            </article>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://Adiwon.github.io/post/number">
+                  <h2 class="post-title">列表测试</h2>
+                </a>
+                <div class="post-date">
+                  2017-02-03
+                </div>
+                <div class="post-abstract">
+                  <blockquote>
 <p>测试结果：无序列表无法嵌套有序列表，其它人也报告过此问题，大致确认是next本身的问题。</p>
 </blockquote>
 <ul>
@@ -265,33 +224,21 @@
 </li>
 </ul>
 
-      </div>
-    </article>
-  
-    <article class="post">
-      <a href="https://Adiwon.github.io/post/170203">
-        <h2 class="post-title">又一次，近来折腾总结</h2>
-      </a>
-      <div class="post-info">
-        <span>
-          2017-02-03
-        </span>
-        <span>
-          2 min read
-        </span>
-        
-          <a href="https://Adiwon.github.io/tag/KrQ2Fgs1e" class="post-tag">
-            # essay
-          </a>
-        
-          <a href="https://Adiwon.github.io/tag/lUN3t7yAQJ" class="post-tag">
-            # software
-          </a>
-        
-      </div>
-      
-      <div class="post-abstract">
-        <h1 id="近来折腾的软件以及其他">近来折腾的软件以及其他</h1>
+                </div>
+              </div>
+              
+            </article>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://Adiwon.github.io/post/170203">
+                  <h2 class="post-title">又一次，近来折腾总结</h2>
+                </a>
+                <div class="post-date">
+                  2017-02-03
+                </div>
+                <div class="post-abstract">
+                  <h1 id="近来折腾的软件以及其他">近来折腾的软件以及其他</h1>
 <h2 id="软件">软件</h2>
 <p>​        这几天闲着没事翻了大堆大堆的软件，但最后一共就装了这么几个：/ 痛点</p>
 <ul>
@@ -305,94 +252,57 @@
 </li>
 </ul>
 
-      </div>
-    </article>
-  
-    <article class="post">
-      <a href="https://Adiwon.github.io/post/1st">
-        <h2 class="post-title">初步完成</h2>
-      </a>
-      <div class="post-info">
-        <span>
-          2017-02-02
-        </span>
-        <span>
-          1 min read
-        </span>
-        
-          <a href="https://Adiwon.github.io/tag/KrQ2Fgs1e" class="post-tag">
-            # essay
-          </a>
-        
-          <a href="https://Adiwon.github.io/tag/f2JB1C45ku" class="post-tag">
-            # test
-          </a>
-        
-      </div>
-      
-      <div class="post-abstract">
-        <h1 id="配置初步完成的随感">配置初步完成的随感</h1>
+                </div>
+              </div>
+              
+            </article>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://Adiwon.github.io/post/1st">
+                  <h2 class="post-title">初步完成</h2>
+                </a>
+                <div class="post-date">
+                  2017-02-02
+                </div>
+                <div class="post-abstract">
+                  <h1 id="配置初步完成的随感">配置初步完成的随感</h1>
 <p>​        github 和 hexo 本身这两部分倒是很顺利，精力全部浪费在配置主题上了。作者的东西是不错，但wiki页面长期没有编辑和更新，文档还行。遇到一些很烦人的小问题，也搜不到什么答案（大家的使用教程大同小异），只能自己瞎试。当然，这锅我自己应该背个百分之六十吧。</p>
 
+                </div>
+              </div>
+              
+            </article>
+          
+
+          <div class="pagination-container">
+  
+  
+</div>
+
+        </div>
       </div>
-    </article>
-  
-</div>
+    </div>
 
-    
-        <div class="pagination-container">
-  
-  
-</div>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 
-    
-        <div class="site-footer">
-  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | 
-  <a class="rss" href="https://Adiwon.github.io/atom.xml" target="_blank">RSS</a>
-</div>
+<script type="application/javascript">
 
-<script>
-  hljs.initHighlightingOnLoad()
+AOS.init();
 
-  let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+hljs.initHighlightingOnLoad()
 
-  // This should probably be throttled.
-  // Especially because it triggers during smooth scrolling.
-  // https://lodash.com/docs/4.17.10#throttle
-  // You could do like...
-  // window.addEventListener("scroll", () => {
-  //    _.throttle(doThatStuff, 100);
-  // });
-  // Only not doing it here to keep this Pen dependency-free.
-
-  window.addEventListener("scroll", event => {
-    let fromTop = window.scrollY;
-
-    mainNavLinks.forEach((link, index) => {
-      let section = document.getElementById(decodeURI(link.hash).substring(1));
-      let nextSection = null
-      if (mainNavLinks[index + 1]) {
-        nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
-      }
-      if (section.offsetTop <= fromTop) {
-        if (nextSection) {
-          if (nextSection.offsetTop > fromTop) {
-            link.classList.add("current");
-          } else {
-            link.classList.remove("current");    
-          }
-        } else {
-          link.classList.add("current");
-        }
-      } else {
-        link.classList.remove("current");
-      }
-    });
-  });
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
 
 </script>
 
-      </div>
-    </div>
+
+
+
   </body>
 </html>
