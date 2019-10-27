@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Adiwon.github.io</id>
     <title>荒川桥下</title>
-    <updated>2019-10-27T20:28:44.797Z</updated>
+    <updated>2019-10-27T20:47:57.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Adiwon.github.io"/>
     <link rel="self" href="https://Adiwon.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://Adiwon.github.io/images/avatar.png</logo>
     <icon>https://Adiwon.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 荒川桥下</rights>
+    <entry>
+        <title type="html"><![CDATA[影评]]></title>
+        <id>https://Adiwon.github.io/post/ying-ping</id>
+        <link href="https://Adiwon.github.io/post/ying-ping">
+        </link>
+        <updated>2019-10-27T20:46:48.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[校服]]></title>
         <id>https://Adiwon.github.io/post/xiao-fu</id>
@@ -76,12 +83,5 @@
         <link href="https://Adiwon.github.io/post/170203">
         </link>
         <updated>2017-02-03T09:44:43.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初步完成]]></title>
-        <id>https://Adiwon.github.io/post/1st</id>
-        <link href="https://Adiwon.github.io/post/1st">
-        </link>
-        <updated>2017-02-02T14:50:08.000Z</updated>
     </entry>
 </feed>
