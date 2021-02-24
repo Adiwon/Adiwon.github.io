@@ -2,46 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Adiwon.github.io</id>
     <title>荒川桥下</title>
-    <updated>2019-12-13T20:43:30.095Z</updated>
+    <updated>2021-02-24T06:09:10.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Adiwon.github.io"/>
     <link rel="self" href="https://Adiwon.github.io/atom.xml"/>
     <subtitle>记录</subtitle>
     <logo>https://Adiwon.github.io/images/avatar.png</logo>
     <icon>https://Adiwon.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, 荒川桥下</rights>
+    <rights>All rights reserved 2021, 荒川桥下</rights>
     <entry>
         <title type="html"><![CDATA[涉疆]]></title>
-        <id>https://Adiwon.github.io/post/she-jiang</id>
-        <link href="https://Adiwon.github.io/post/she-jiang">
+        <id>https://Adiwon.github.io/post/she-jiang/</id>
+        <link href="https://Adiwon.github.io/post/she-jiang/">
         </link>
         <updated>2019-12-13T20:41:52.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[影评]]></title>
-        <id>https://Adiwon.github.io/post/ying-ping</id>
-        <link href="https://Adiwon.github.io/post/ying-ping">
+        <id>https://Adiwon.github.io/post/ying-ping/</id>
+        <link href="https://Adiwon.github.io/post/ying-ping/">
         </link>
         <updated>2019-10-27T20:46:48.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[校服]]></title>
-        <id>https://Adiwon.github.io/post/xiao-fu</id>
-        <link href="https://Adiwon.github.io/post/xiao-fu">
+        <id>https://Adiwon.github.io/post/xiao-fu/</id>
+        <link href="https://Adiwon.github.io/post/xiao-fu/">
         </link>
         <updated>2019-10-27T20:26:55.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[回想]]></title>
-        <id>https://Adiwon.github.io/post/hui-xiang</id>
-        <link href="https://Adiwon.github.io/post/hui-xiang">
+        <id>https://Adiwon.github.io/post/hui-xiang/</id>
+        <link href="https://Adiwon.github.io/post/hui-xiang/">
         </link>
         <updated>2019-10-25T20:42:42.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[song]]></title>
-        <id>https://Adiwon.github.io/post/song</id>
-        <link href="https://Adiwon.github.io/post/song">
+        <id>https://Adiwon.github.io/post/song/</id>
+        <link href="https://Adiwon.github.io/post/song/">
         </link>
         <updated>2018-02-13T16:48:15.000Z</updated>
         <summary type="html"><![CDATA[<p>突然想到一段旋律，死活记不起是哪首歌了。</p>
@@ -51,36 +51,36 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[sigh]]></title>
-        <id>https://Adiwon.github.io/post/sigh</id>
-        <link href="https://Adiwon.github.io/post/sigh">
+        <id>https://Adiwon.github.io/post/sigh/</id>
+        <link href="https://Adiwon.github.io/post/sigh/">
         </link>
         <updated>2018-02-11T14:00:41.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Damn]]></title>
-        <id>https://Adiwon.github.io/post/Damn</id>
-        <link href="https://Adiwon.github.io/post/Damn">
+        <id>https://Adiwon.github.io/post/Damn/</id>
+        <link href="https://Adiwon.github.io/post/Damn/">
         </link>
         <updated>2018-02-03T12:06:30.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[兵工厂 18冬窗]]></title>
-        <id>https://Adiwon.github.io/post/18013101</id>
-        <link href="https://Adiwon.github.io/post/18013101">
+        <id>https://Adiwon.github.io/post/18013101/</id>
+        <link href="https://Adiwon.github.io/post/18013101/">
         </link>
         <updated>2018-01-31T13:03:25.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[2018 博客重建]]></title>
-        <id>https://Adiwon.github.io/post/18013001</id>
-        <link href="https://Adiwon.github.io/post/18013001">
+        <id>https://Adiwon.github.io/post/18013001/</id>
+        <link href="https://Adiwon.github.io/post/18013001/">
         </link>
         <updated>2018-01-30T15:00:18.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[列表测试]]></title>
-        <id>https://Adiwon.github.io/post/number</id>
-        <link href="https://Adiwon.github.io/post/number">
+        <id>https://Adiwon.github.io/post/number/</id>
+        <link href="https://Adiwon.github.io/post/number/">
         </link>
         <updated>2017-02-03T12:20:06.000Z</updated>
     </entry>
