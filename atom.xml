@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Adiwon.github.io</id>
     <title>荒川桥下</title>
-    <updated>2022-02-15T06:14:34.050Z</updated>
+    <updated>2022-02-15T06:15:11.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Adiwon.github.io"/>
     <link rel="self" href="https://Adiwon.github.io/atom.xml"/>
@@ -10,13 +10,6 @@
     <logo>https://Adiwon.github.io/images/avatar.png</logo>
     <icon>https://Adiwon.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 荒川桥下</rights>
-    <entry>
-        <title type="html"><![CDATA[涉疆]]></title>
-        <id>https://Adiwon.github.io/post/she-jiang/</id>
-        <link href="https://Adiwon.github.io/post/she-jiang/">
-        </link>
-        <updated>2019-12-13T20:41:52.000Z</updated>
-    </entry>
     <entry>
         <title type="html"><![CDATA[影评]]></title>
         <id>https://Adiwon.github.io/post/ying-ping/</id>
@@ -83,5 +76,12 @@
         <link href="https://Adiwon.github.io/post/number/">
         </link>
         <updated>2017-02-03T12:20:06.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[又一次，近来折腾总结]]></title>
+        <id>https://Adiwon.github.io/post/170203/</id>
+        <link href="https://Adiwon.github.io/post/170203/">
+        </link>
+        <updated>2017-02-03T09:44:43.000Z</updated>
     </entry>
 </feed>
